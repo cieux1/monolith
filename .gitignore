@@ -1,0 +1,28 @@
+# Pebble Build Output
+build/
+.lock-waf*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potential
+Network Trash Folder
+Temporary Items
+
+# Editor and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
